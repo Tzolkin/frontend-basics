@@ -1,0 +1,19 @@
+{
+  "name": "frontend-basics",
+  "version": "0.0.1",
+  "description": "frontend template",
+  "main": "server.app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tzolkin/frontend-basics.git"
+  },
+  "author": "Tzolkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tzolkin/frontend-basics/issues"
+  },
+  "homepage": "https://github.com/Tzolkin/frontend-basics#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
